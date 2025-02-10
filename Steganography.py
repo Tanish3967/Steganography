@@ -1,5 +1,4 @@
 import streamlit as st
-pip install opencv-python
 import cv2
 import numpy as np
 import subprocess  # For opening files on Mac
