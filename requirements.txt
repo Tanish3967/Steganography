@@ -1,1 +1,2 @@
-pip install opencv-python-headless  # Use this for servers without a display
+#pip install opencv-python-headless  # Use this for servers without a display
+pip install opencv-python
